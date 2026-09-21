@@ -87,4 +87,4 @@ Contoh keputusan: `ratio > 0.30 → area target dominan`.
 ## Berkas yang Dikumpulkan
 - `NIM_Nama_Ujian_DigitalImage.ipynb`
 - gambar input yang digunakan
-- tului jawaban di bawah cell code menggunakan cell text
+- tulis jawaban di bawah cell code menggunakan cell text
