@@ -1,4 +1,4 @@
-# Tugas/Ujian Praktikum — Digital Image Fundamentals
+# Tugas Praktikum — Digital Image Fundamentals
 
 **Mata Kuliah:** Computer Vision  
 **Platform:** Google Colab  
