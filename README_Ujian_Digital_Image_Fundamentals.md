@@ -5,6 +5,8 @@
 **Materi:** Digital Image Fundamentals, berdasarkan materi slide 1–20  
 **Library utama:** Python, OpenCV, NumPy, Matplotlib
 
+**Pengumpulan terakhir: Jumat 25 Sept 2026-24:00 WIB**
+
 ## Tujuan
 Mahasiswa menerapkan konsep citra digital sebagai matriks, H×W×C, BGR/RGB/HSV/grayscale, ROI, brightness/contrast, histogram, sampling/quantization, resize/interpolation, transformasi, thresholding, dan masking.
 
