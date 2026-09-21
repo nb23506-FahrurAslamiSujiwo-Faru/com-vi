@@ -83,26 +83,8 @@ Contoh keputusan: `ratio > 0.30 → area target dominan`.
 
 ---
 
-## Bonus Analisis (+5)
-Bandingkan global threshold dan adaptive threshold pada gambar yang sama. Jelaskan metode mana yang menghasilkan segmentasi lebih masuk akal pada gambar tersebut dan kaitkan dengan kondisi pencahayaan.
-
-## Rubrik
-| Komponen | Bobot |
-|---|---:|
-| Soal 1 | 15 |
-| Soal 2 | 15 |
-| Soal 3 | 15 |
-| Soal 4 | 20 |
-| Soal 5 | 15 |
-| Soal 6 | 20 |
-| **Total** | **100** |
-| Bonus | +5 |
-
-Penilaian tiap soal mempertimbangkan: ketepatan kode, keberhasilan output, ketepatan konsep, dan kualitas interpretasi.
 
 ## Berkas yang Dikumpulkan
 - `NIM_Nama_Ujian_DigitalImage.ipynb`
 - gambar input yang digunakan
-- opsional: PDF hasil notebook jika diminta dosen
-
-> **Catatan:** Notebook jawaban dosen disediakan terpisah. Jangan membagikan notebook jawaban sebelum ujian selesai.
+- tului jawaban di bawah cell code menggunakan cell text
