@@ -301,7 +301,6 @@ Buat tiga citra baru:
 # ...
 ```
 
-### HARD
 
 Konversikan citra ke HSV lalu cari nilai rata-rata H, S, dan V.
 
@@ -951,7 +950,7 @@ Ketentuan:
 
 ```python
 # =====================================
-# FINAL PROJECT EASY
+# FINAL PROJECT
 # =====================================
 
 # Tulis kode Anda di sini
