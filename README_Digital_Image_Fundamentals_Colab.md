@@ -1,4 +1,4 @@
-# Praktikum Digital Image Fundamentals — Google Colab
+# Quiz Digital Image Fundamentals — Google Colab
 
 **Mata Kuliah:** Computer Vision  
 **Materi:** Digital Image Fundamentals  
