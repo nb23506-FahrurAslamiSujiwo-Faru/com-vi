@@ -1,6 +1,5 @@
 # Proyek Computer Vision — Segmentasi Objek pada Gambar
-
-**Tingkat:** Level 2 (Menengah)  
+ 
 **Bentuk tugas:** Proyek individu  
 **Platform:** Google Colab (Python + OpenCV)  
 **Materi:** Digital Image Fundamentals; Image Enhancement & Filtering; Edge & Feature Detection
